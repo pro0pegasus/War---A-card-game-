@@ -2,6 +2,9 @@ html, body {
     margin: 0;
     padding: 0;
     background-image: url("img/table.png");
+    background-position: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
     font-family: "Exo 2", sans-serif;
     height: 100vh;
 }
