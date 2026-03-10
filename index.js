@@ -27,7 +27,7 @@ async function handleClick() {
         computerScoreEl.textContent = `Computer score: 0`
         myScoreEl.textContent = `Player score: 0`
         computerScore = 0
-        playerScore = 0
+        myScore = 0
 }
 
 
